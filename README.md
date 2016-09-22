@@ -5,7 +5,9 @@ Compare using third table for many to many relationship
 with array column
 
    200000 groups
+
 ≈ 4000000 posts
+
 Each post belongs to 40 random groups
 
 ## Insert Data
